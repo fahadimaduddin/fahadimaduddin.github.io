@@ -18,7 +18,7 @@ I am a fullstack engineer with an experience of over 1 years. I have hands on ex
 
 ## Experience
 
-### **Val’s Technologies - .NET Developer **
+### Val’s Technologies - .NET Developer
 
 Collaborated on all stages of systems development lifecycle, from requirement gathering to production releases. Gathered and defined customer requirements to develop clear specifications for creating well-organized project plans. Wrote CRM applicationsin ASP.NET MVC architecture forthe ERP sector. Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release software project development.
 
