@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/FahadImaduddin/fahadimaduddin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a fullstack engineer with an experience of over 1 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on .NET and javascript for 1 years.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align='left'>
+  <img src="https://ibb.co/0c0kzz3" alt="html5" width="40" height="40">
+  <img src="https://ibb.co/18JV4M8" alt="css3" width="40" height="40">
+  <img src="https://ibb.co/9V8pntj" alt="js" width="auto" height="40" >
+  <img src="https://ibb.co/vJB0XGq" alt="csharp" width="30" height="40"/>
+  <img src="https://ibb.co/8m6LBVG" alt="react" width="40" height="40"/>
+</p>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
 
-- Bulleted
-- List
+### **.NET DEVELOPER**
+### Val’s Technologies
 
-1. Numbered
-2. List
+Collaborated on all stages of systems development lifecycle, from requirement gathering to production releases. Gathered and defined customer requirements to develop clear specifications for creating well-organized project plans. Wrote CRM applicationsin ASP.NET MVC architecture forthe ERP sector. Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release software project development.
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+## Conceptual Base
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Object-Oriented Programming, Data Structures, Design Patterns, Object Oriented Analysis and Design, Digital Logic and Design, Artificial Intelligence.
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FahadImaduddin/fahadimaduddin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Intermediary Knowledge
 
-### Support or Contact
+Python, Linux Bash Script, Assembly language, Java, PHP
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+
+## Database Technologies
+
+MSSQL Server, MySQL, MongoDB
+
+---
+
+## Tools
+
+Visual Studio IDE, VS Code, Git, Proteus, Arduino, MS Office, LibreOffice, Cisco Packet Tracer, Android studio, Jupyter, Virtual Box, SSMS, XAMP
+
+---
+
+## Projects
+
+● Augmented Reality Library
+● Railway Management System
+● Binary Search Tree & Heap Sort Visualization
+● Hotel Management System
+● Railway Management System
+● Tutor Management System  
+● School Management System 
+
+---
+
+
+## Education
+
+### **PAF-KIET UNIVERSITY**
+### BS Computer Science (2017- 2021)
+GPA 3.15
+
+---
+
+### INTERESTS
+Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+
+I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
