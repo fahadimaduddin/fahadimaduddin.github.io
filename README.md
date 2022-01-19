@@ -51,13 +51,16 @@ Visual Studio IDE, VS Code, Git, Proteus, Arduino, MS Office, LibreOffice, Cisco
 
 ## Projects
 
-● Augmented Reality Library
-● Railway Management System
-● Binary Search Tree & Heap Sort Visualization
-● Hotel Management System
-● Railway Management System
-● Tutor Management System  
-● School Management System 
+<ul>
+  <li>Augmented Reality Library</li>
+  <li>Railway Management System</li>
+  <li>Binary Search Tree & Heap Sort Visualization</li>
+  <li>Hotel Management System</li>
+  <li>Railway Management System</li>
+  <li>Tutor Management System </li>
+  <li>School Management System </li>
+</ul>  
+
 
 ---
 
