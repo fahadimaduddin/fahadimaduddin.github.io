@@ -12,6 +12,8 @@ I am a fullstack engineer with an experience of over 1 years. I have hands on ex
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+   <img src="https://ibb.co/Vgn1gVY" alt="csharp" width="40" height="40"/>
+  
 </p>
 
 ---
