@@ -12,6 +12,7 @@ I am a fullstack engineer with an experience of over 1 years. I have hands on ex
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width="auto" alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
     <a href=""><img src="https://i.ibb.co/3p63p1m/Csharp-Logo.png" alt="Csharp-Logo" alt="csharp" height="40" width="auto"></a>
+ <a href=""><img src="https://i.ibb.co/vJB0XGq/c-sharp.png" alt="c-sharp" width="auto" height="40"></a>
 </p>
 
 ---
