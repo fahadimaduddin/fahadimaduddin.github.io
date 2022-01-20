@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a fullstack engineer with an experience of over 1 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on .NET and javascript for 1 years.
+I am a Fullstack Engineer with an experience of over 1 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on .NET and javascript for 1 years.
 
 ---
 
