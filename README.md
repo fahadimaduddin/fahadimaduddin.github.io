@@ -13,7 +13,7 @@ I am a fullstack engineer with an experience of over 1 years. I have hands on ex
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
    <img src="https://ibb.co/Vgn1gVY" alt="csharp" width="40" height="40"/>
-  <a href="https://trailblazer.me/id/fahadimaduddin" target="blank"><img align="center" src="https://i.ibb.co/dfN2s9x/Trailblazer.png" alt="Trailblazer" height="30" width="40">
+  <a href="https://trailblazer.me/id/fahadimaduddin" target="blank"><img src="https://i.ibb.co/dfN2s9x/Trailblazer.png" alt="Trailblazer" height="30" width="40">
 </p>
 
 ---
