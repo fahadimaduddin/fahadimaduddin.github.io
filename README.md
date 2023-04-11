@@ -22,6 +22,14 @@ I am a Fullstack engineer with an experience of over 1 years. I have hands on ex
 
 Collaborated on all stages of systems development lifecycle, from requirement gathering to production releases. Gathered and defined customer requirements to develop clear specifications for creating well-organized project plans. Wrote CRM applicationsin ASP.NET MVC architecture forthe ERP sector. Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release software project development.
 
+### Code Creators Inc - Junior SharePoint Developer
+
+The design and development of integrated solutions using the latest Microsoft products and technologies. Stabilizing developed solutions using Microsoft methodologies in complex customer environments. Analysing customer request as well as making recommendations on issues or resolutions in the Sharepoint Environment Finding root cause in Problem Investigation and co-ordinating with other teams for resolution Act as SPOC in communicating with Customers. The delivery of high quality engagements around Microsoft's solution areas, technologies and products in diverse client environments
+
+### Systems Limited - Junior Consultant SharePoint
+
+Build strong relationships with the Microsoft Practice, Professional Services team, Sales team, and external customers. Collect requirements and assist in drafting proposals for SharePoint, Intranet, Internet, and other related solutions and projects. Maintain regular and effective communication with clients and A365 management. Work on-site with clients as needed. Create and maintain documentation for users and systems. Identify opportunities for improving internal processes and procedures, and proactively suggest enhancements. Support other team members by sharing workload, resources, and knowledge. Possess experience working with Office 365 products and tools, with a particular focus on SharePoint projects.
+
 ---
 
 ## Conceptual Base
