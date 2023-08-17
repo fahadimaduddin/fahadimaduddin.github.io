@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a Fullstack engineer with an experience of over 1 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on .NET and javascript for 1 years.
+I am a Fullstack engineer with an experience of over 1 year. I have hands-on experience working with web frameworks and technologies. I have extensively worked on .NET and javascript for 1 year.
 
 ---
 
@@ -24,18 +24,18 @@ Build strong relationships with the Microsoft Practice, Professional Services te
 
 ### Code Creators Inc - Junior SharePoint Developer
 
-The design and development of integrated solutions using the latest Microsoft products and technologies. Stabilizing developed solutions using Microsoft methodologies in complex customer environments. Analysing customer request as well as making recommendations on issues or resolutions in the Sharepoint Environment Finding root cause in Problem Investigation and co-ordinating with other teams for resolution Act as SPOC in communicating with Customers. The delivery of high quality engagements around Microsoft's solution areas, technologies and products in diverse client environments
+The design and development of integrated solutions using the latest Microsoft products and technologies. Stabilizing developed solutions using Microsoft methodologies in complex customer environments. Analyzing customer requests as well as making recommendations on issues or resolutions in the Sharepoint Environment Finding root cause in Problem Investigation and coordinating with other teams for resolution Act as SPOC in communicating with Customers. The delivery of high-quality engagements around Microsoft's solution areas, technologies, and products in diverse client environments
 
 ### Val’s Technologies - .NET Developer
 
-Collaborated on all stages of systems development lifecycle, from requirement gathering to production releases. Gathered and defined customer requirements to develop clear specifications for creating well-organized project plans. Wrote CRM applicationsin ASP.NET MVC architecture forthe ERP sector. Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release software project development.
+Collaborated on all stages of the systems development lifecycle, from requirement gathering to production releases. Gathered and defined customer requirements to develop clear specifications for creating well-organized project plans. Wrote CRM applications in ASP.NET MVC architecture for the ERP sector. Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release software project development.
 
 
 ---
 
 ## Conceptual Base
 
-Object-Oriented Programming, Data Structures, Design Patterns, Object Oriented Analysis and Design, Digital Logic and Design, Artificial Intelligence.
+Object-Oriented Programming, Data Structures, Design Patterns, Object Oriented Analysis and Design, Digital Logic and Design, and Artificial Intelligence.
 
 ---
 
@@ -82,6 +82,6 @@ GPA 3.15
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+Apart from being a web developer, I do content creation. I make videos related to front and general tech.
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+I enjoy being outdoors, so I go for a run every day. I love traveling to different countries and exploring different cultures. When I am inside, I play guitar and sing in my free time.
